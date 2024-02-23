@@ -1,0 +1,112 @@
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe.config
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.pdb
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Form1.resources
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Properties.Resources.resources
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.exe
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.pdb
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaVendedores.resources
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaClientes.resources
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaProductos.resources
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Facturación.resources
+C:\Users\user\source\repos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.FormularioInformes.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe.config
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.pdb
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.AssemblyReference.cache
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.SuggestedBindingRedirects.cache
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaClientes.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaProductos.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaVendedores.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Facturación.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Form1.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.FormularioInformes.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Properties.Resources.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.GenerateResource.cache
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.exe
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.pdb
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe.config
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.pdb
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaClientes.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaProductos.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaVendedores.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Facturación.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Form1.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.FormularioInformes.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Properties.Resources.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.exe
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.pdb
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe.config
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.pdb
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.AssemblyReference.cache
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.SuggestedBindingRedirects.cache
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaClientes.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaProductos.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaVendedores.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Facturación.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Form1.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.FormularioInformes.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Properties.Resources.resources
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.GenerateResource.cache
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.exe
+C:\Users\EMATP\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.pdb
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaClientes.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaProductos.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaVendedores.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Facturación.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Form1.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.FormularioInformes.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Properties.Resources.resources
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.exe
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.pdb
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe.config
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe
+C:\Users\user\Desktop\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.pdb
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe.config
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.exe
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\bin\Debug\TP Algoritmos.pdb
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaClientes.resources
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaProductos.resources
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaVendedores.resources
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Facturación.resources
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Form1.resources
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.FormularioInformes.resources
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP_Algoritmos.Properties.Resources.resources
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.GenerateResource.cache
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.exe
+C:\Users\user\Downloads\TP Algoritmos (1)\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\TP Algoritmos\obj\Debug\TP Algoritmos.pdb
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\bin\Debug\TP Algoritmos.exe.config
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\bin\Debug\TP Algoritmos.exe
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\bin\Debug\TP Algoritmos.pdb
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaClientes.resources
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaProductos.resources
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP_Algoritmos.AltaVendedores.resources
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP_Algoritmos.Facturación.resources
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP_Algoritmos.Form1.resources
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP_Algoritmos.FormularioInformes.resources
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP_Algoritmos.Properties.Resources.resources
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP Algoritmos.exe
+C:\Users\user\Desktop\Nueva carpeta\Proyectos de presentacion en el curriculum\TP Algoritmos - Listas\TP Algoritmos\obj\Debug\TP Algoritmos.pdb
